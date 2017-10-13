@@ -9,7 +9,7 @@ class location {
 let myLocation = new location("United States", "California", "RSM", 92688);
 myLocation;
 
-// --------------------------------------------------
+// --------------------------------------------------++
 class findObjectVolume {
   constructor(height, width, depth) {
     this.height = height;
