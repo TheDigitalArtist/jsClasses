@@ -1,1 +1,1 @@
-// Advanced examples of classes
+// Advanced examples of classes in ES6
